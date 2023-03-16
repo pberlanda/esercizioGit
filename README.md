@@ -1,0 +1,1 @@
+# questa è un'esercitazione su come usare i comandi più comuni di git
